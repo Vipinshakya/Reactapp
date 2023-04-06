@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "gsap": "^3.11.5",
+    "react-bootstrap": "^2.7.2",
+    "react-simple-maps": "^3.0.0",
+    "styled-components": "^5.3.9",
+    "three": "^0.151.2"
+  }
+}

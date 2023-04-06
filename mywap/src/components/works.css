@@ -1,0 +1,29 @@
+.Worksection{
+    
+    height: 100vh;
+    scroll-snap-align: center;
+    background-image: url(../assets/bg.jpeg);
+}
+
+.Worksection{
+   
+    display: flex;
+    list-style: none;
+    font-size: 40px;
+  align-items: center;
+  justify-content: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  cursor: pointer;
+ color: transparent;
+ -webkit-text-stroke: 1px rgb(243, 242, 242);
+
+
+
+  
+} 
+.left:hover{
+  
+  animation: my 24s ease infinite ;
+
+}

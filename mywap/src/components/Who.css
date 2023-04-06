@@ -1,0 +1,27 @@
+.Whosection{
+    height: 100vh;
+   
+    scroll-snap-align: center;
+   
+}
+
+.Whosection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+    gap: 3rem;
+     background-image: url(../assets//bg.jpeg);
+
+}
+.whoheading{
+    color: aqua;
+}
+.whodesc{
+    gap: 2rem;
+    margin-left: 20px;
+    padding: 10px;
+    letter-spacing: 2px;
+    color: brown;
+}

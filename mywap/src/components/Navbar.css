@@ -1,0 +1,42 @@
+
+.head{
+    
+    display: flex;
+    justify-content: space-between;
+}
+.list{
+    display: flex;
+    list-style: none;
+ gap: 4rem;
+}
+.link{
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+    color: white;
+    cursor: pointer;
+}
+.icon{
+    width: 20px;
+   cursor: pointer;
+  
+}
+.ico{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+.btn{
+   
+    border-radius: 5px;
+    background-color:palevioletred;
+   text-align: center;
+    width: 100px;
+   height: 50px;
+   padding: 3px;
+  font-weight: 500;
+  color: white;
+    margin-right: 10px;
+    font-size: 20px;
+    border: none;
+}

@@ -1,0 +1,26 @@
+.Contactsection{
+    background-color: gray;
+    height: 100vh;
+    scroll-snap-align: center;
+    background-image: url(../assets//bg.jpeg);
+}
+form{
+width: 100%;
+justify-content: space-between;
+align-items: center;
+
+padding: 2rem;
+}
+input{
+    padding: 10px;
+    width: 22%;
+    height: 20px;
+    font-size: 25px;
+    text-transform: capitalize;
+    color: #000;
+    font-weight: 500;
+   
+}
+input::after{
+ list-style: none;
+}
